@@ -1,6 +1,6 @@
 # Mathutil Package:
 
-The mathutil package provides functionality for computing the average of a slice of numerical values, with the option to perform a 5% trim to remove outliers.
+The mathutil package provides functionality for computing the average of a slice of numerical values, with a 5% trim to remove outliers.
 
 ## Package Use:
 
